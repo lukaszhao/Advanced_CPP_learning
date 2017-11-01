@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509427943 source:c:\users\lukas_xwwq2s\desktop\coding\c++ project\multithreading\multithreading\dog.cpp
+	"dog.h"
+
+1509426786 c:\users\lukas_xwwq2s\desktop\coding\c++ project\multithreading\multithreading\dog.h
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+
